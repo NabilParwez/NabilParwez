@@ -70,26 +70,6 @@ Currently engineering the future of passenger services at **United Airlines** �
 
 ---
 
-## 🚀 Featured Work
-
-> *Most professional work is proprietary. These repos reflect architectural patterns, demo implementations, and tooling I own.*
-
-**Enterprise & Cloud**
-- **[Agentic MCP SQL Connector]**  
-  AI agent layer using Model Context Protocol for LLM-to-database reasoning. `C#` `Python` `SQL` `MCP`
-
-- **[AWS .NET Microservices Template]**  
-  Cloud-native boilerplate with API Gateway, Lambda, Docker, and CI/CD pipelines. `.NET Core` `AWS` `Docker`
-
-**AI & Data**
-- **[LLM Customer Support Automation]**
-  Azure OpenAI / Bedrock integration for automated ticket classification. `Python` `LLMs` `REST API`
-
-- **[IoT Signal Pipeline]**
-  Real-time .NET data ingestion pipeline for telemetry and Wi-Fi analytics. `.NET` `MQTT` `PostgreSQL`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
