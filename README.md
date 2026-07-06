@@ -68,18 +68,6 @@ Currently engineering the future of passenger services at **United Airlines** �
 - 📡 **IoT Scale** — Real-time ingestion for Wi-Fi survey devices. **Millions of records/day**, **99.9%** uptime.
 - 🔧 **CI/CD Velocity** — Pipeline optimization. Build-to-deploy cut from **45 min → 12 min**.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NabilParwez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilParwez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilParwez&theme=github_dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
 
 ---
 
