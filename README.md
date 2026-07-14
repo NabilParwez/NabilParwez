@@ -77,7 +77,7 @@ Open to **Senior Software Engineer**, **Cloud/AI Engineering**, and **Technical 
 
 - 💼 **LinkedIn:** [linkedin.com/in/nabil-parwez](https://linkedin.com/in/nabil-parwez)
 - 📧 **Email:** [nabil.parwez124@gmail.com](mailto:nabil.parwez124@gmail.com)
-- 📍 **Location:** Houston, TX *(Open to Remote & Relocation)*
+- 📍 **Location:** Houston, TX *(Open to Remote)*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:0ea5e9&height=120&section=footer" />
