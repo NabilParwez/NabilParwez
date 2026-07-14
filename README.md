@@ -5,7 +5,6 @@
 
 <!-- BADGES -->
 <p align="center">
-  <a href="https://linkedin.com/in/nabil-parwez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nabil.parwez124@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Houston,%20TX-0f172a?style=for-the-badge&logo=google-maps&logoColor=FF9900" />
   <img src="https://komarev.com/ghpvc/?username=NabilParwez&style=for-the-badge&color=0ea5e9&label=Profile%20Views" alt="Profile views" />
@@ -75,7 +74,6 @@ Currently engineering the future of passenger services at **United Airlines** �
 
 Open to **Senior Software Engineer**, **Cloud/AI Engineering**, and **Technical Lead** roles.
 
-- 💼 **LinkedIn:** [linkedin.com/in/nabil-parwez](https://linkedin.com/in/nabil-parwez)
 - 📧 **Email:** [nabil.parwez124@gmail.com](mailto:nabil.parwez124@gmail.com)
 - 📍 **Location:** Houston, TX *(Open to Remote)*
 
