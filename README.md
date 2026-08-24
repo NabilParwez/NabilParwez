@@ -1,56 +1,27 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:334155,100:0ea5e9&height=190&section=header&text=Nabil%20Parwez&fontSize=50&fontColor=f1f5f9&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Backend%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Integration&descAlignY=58&descSize=15" />
-</p>
-
 # Hi, I'm Nabil 👋
 
-Senior Software Engineer with **9+ years of experience** building and modernizing scalable enterprise and SaaS applications.
+**Senior Software Engineer | Full-Stack AI Product Engineering**
 
-I work across **backend engineering, full-stack development, distributed systems, cloud applications, APIs, databases, production reliability, and AI/LLM integration**.
+I have 9+ years of experience building scalable enterprise and SaaS systems across **backend engineering, distributed systems, APIs, cloud applications, data platforms, and production reliability**.
 
-Currently based in **Houston, TX** and open to strong software engineering opportunities.
+More recently, I've been building and integrating **AI/LLM applications** using Python, FastAPI, RAG, vector search, tool calling, evaluation workflows, and human-in-the-loop patterns.
 
-## What I Work On
+### Core Stack
 
-- Backend & Full-Stack Engineering
-- Distributed Systems & APIs
-- Cloud-Native Applications
-- SaaS & Platform Engineering
-- Performance & Reliability
-- AI/LLM-Enabled Applications
+**AI:** OpenAI · Azure OpenAI · LangChain · Semantic Kernel · RAG · FAISS · Tool Calling · LLM Evaluation  
+**Backend:** Python · FastAPI · C#/.NET · REST APIs · Distributed Systems · Microservices  
+**Frontend:** React · TypeScript · JavaScript  
+**Data:** PostgreSQL · SQL Server · Redis · SQL  
+**Cloud & DevOps:** AWS · Azure · Docker · Kubernetes · CI/CD
 
-## Tech
-
-**Languages:** C# · Python · TypeScript · JavaScript · SQL  
-**Backend:** .NET · ASP.NET Core · REST APIs · Microservices  
-**Frontend:** React · TypeScript · Blazor  
-**Cloud:** AWS · Azure · Docker · Kubernetes · Terraform  
-**Data:** PostgreSQL · SQL Server · Redis · DynamoDB  
-**AI:** Azure OpenAI · LLM Integration · AI Workflows
-
-## Selected Impact
+### Engineering Impact
 
 - Built services supporting **1M+ daily requests**
-- Reduced infrastructure costs by **20%**
-- Increased deployment frequency by **40%**
-- Reduced database load by **35%**
 - Improved API response times by **25%**
-- Integrated LLM workflows automating ~**30%** of repetitive activities
+- Reduced database load by **35%**
+- Increased deployment frequency by **40%**
+- Integrated LLM-powered workflows that automated approximately **30%** of repetitive activities
 
-## Projects
+### Connect
 
-I'm building and publishing projects around:
-
-- Python backend services
-- React / TypeScript applications
-- Distributed systems
-- Cloud-native architecture
-- AI/LLM applications
-
-> Check out my pinned repositories below.
-
-## Connect
-
-📍 Houston, TX  
-📧 [nabil.parwez124@gmail.com](mailto:nabil.parwez124@gmail.com)  
-💼 Open to Senior Software Engineer, Backend, Full-Stack, Platform, and AI-enabled product engineering opportunities.
+📧 [Email](mailto:nabil.parwez124@gmail.com) · 📍 Houston, TX
